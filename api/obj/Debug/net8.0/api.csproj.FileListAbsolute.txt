@@ -136,3 +136,7 @@ D:\dotNet\first_app\api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.
 D:\dotNet\first_app\api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\dotNet\first_app\api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\dotNet\first_app\api\obj\Debug\net8.0\api.sourcelink.json
+D:\dotNet\first_app\api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\dotNet\first_app\api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\dotNet\first_app\api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\dotNet\first_app\api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

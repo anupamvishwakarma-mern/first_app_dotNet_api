@@ -13,5 +13,6 @@ namespace api.DTOs.Stock
         public decimal LastDiv { get; set; }
         public string Industry { get; set; } = string.Empty;
         public long MarketCap { get; set; }
+        public IEnumerable<object> Comments { get; internal set; }
     }
 }
